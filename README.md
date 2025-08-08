@@ -49,11 +49,11 @@ The Tableau dashboard includes:
 5. **Composite Views**: Combines multiple dimensions to uncover deeper insights.
 
 ## Files Included
-- [Superstore Return Analysis Dashboard on Tableau Public](https://public.tableau.com/shared/YB6Z9C9SH?:display_count=n&:origin=viz_share_link): Tableau Public dashboard.
+- [Superstore Return Analysis Dashboard on GitHub](https://github.com/YourUsername/YourRepoName/blob/main/Superstore%20Return%20Analysis%20Dashboard.twbx): Tableau dashboard file.
 - `Superstore.xls`: Dataset used for the analysis.
 
 ## How to Use
-1. Open the Tableau Public dashboard [here](https://public.tableau.com/shared/YB6Z9C9SH?:display_count=n&:origin=viz_share_link).
+1. Open the Tableau workbook file [here](https://github.com/YourUsername/YourRepoName/blob/main/Superstore%20Return%20Analysis%20Dashboard.twbx).
 2. Explore each visualization to identify root causes of returns.
 3. Use filters on the dashboard to focus on specific states, months, or subcategories.
 
